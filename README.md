@@ -49,6 +49,4 @@ Make sure you have the required environment or language runtime installed:
 4. Choose to apply any active discounts.
 5. Generate the final bill summary.
 
-## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
